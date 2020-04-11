@@ -84,9 +84,9 @@
     ],
     "answer": [
       "final"
-      },
+    ],
     "feedback": "Final is used to prevent variables and functions from being overriden in Java."
-  ],
+  },
   {
     "question": "JDB is known as Java Debugger.",
     "type": "true-false",
