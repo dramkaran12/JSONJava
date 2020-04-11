@@ -30,10 +30,10 @@
       "decimal",
       "double"
     ],
-    "answer": {
+    "answer": [
       "int",
       "double"
-      },
+    ],
     "feedback": "Decimal is not used to define a decimal value, instead double is used."
   },
   {
@@ -82,11 +82,11 @@
       "final",
       "permanent"
     ],
-    "answer": {
+    "answer": [
       "final"
       },
     "feedback": "Final is used to prevent variables and functions from being overriden in Java."
-  },
+  ],
   {
     "question": "JDB is known as Java Debugger.",
     "type": "true-false",
@@ -133,10 +133,10 @@
       "String",
       "num"
     ],
-    "answer": {
+    "answer": [
       "int",
       "String"
-      },
+    ],
     "feedback": "Int and String are valid, num is not a valid variable type."
   },
   {
@@ -185,9 +185,9 @@
       "if(i = 2)",
       "if(i === 2)"
     ],
-    "answer": {
+    "answer": [
       "if(i == 2)"
-      },
+    ],
     "feedback": "Since we are checking for equivalency, two double signs are required to check so the answer is: if(i == 2)"
   },
   {
