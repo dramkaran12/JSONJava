@@ -1,6 +1,17 @@
 {
 "JavaQuiz": [
   {
+    "question": "Which is the incorrect for loop??",
+    "type": "image-selection",
+    "choices": [
+      "JavaQuizPics/forloop1.jpg",
+      "JavaQuizPics/forloop2.jpg",
+      "JavaQuizPics/forloop3.jpg"
+    ],
+    "answer": "JavaQuizPics/forloop3.jpg",
+    "feedback": "The third choice has the incorrect syntax, as the iterator is not as update."
+  },
+  {
     "question": "How do you make a print statement?",
     "type": "multiple-choice",
     "choices": [
