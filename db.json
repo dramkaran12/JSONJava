@@ -104,7 +104,7 @@
     "feedback": "The correct answer is void which are used commonly in functions to set data."
   },
   {
-    "question": "Which for loop is not accurate?",
+    "question": "Which loop is not used in Java?",
     "type": "multiple-choice",
     "choices": [
       "for",
@@ -185,9 +185,7 @@
       "if(i = 2)",
       "if(i === 2)"
     ],
-    "answer": [
-      "if(i == 2)"
-    ],
+    "answer": "if(i == 2)",
     "feedback": "Since we are checking for equivalency, two double equal signs are required to check so the answer is: if(i == 2)"
   },
   {
