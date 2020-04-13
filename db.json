@@ -178,14 +178,17 @@
     "feedback": "The correct answer is class ___ {} not with a capital C in class as it is case sensitive."
   },
   {
-    "question": "Which of the following is valid to check if int i equals 2?",
+    "question": "Which of the following is valid to check logic of a value?",
     "type": "checkbox",
     "choices": [
-      "if(i == 2)",
-      "if(i = 2)",
-      "if(i === 2)"
+      "if else",
+      "switch",
+      "now then"
     ],
-    "answer": "if(i == 2)",
+    "answer": [
+      "if else",
+      "switch"
+    ],
     "feedback": "Since we are checking for equivalency, two double equal signs are required to check so the answer is: if(i == 2)"
   },
   {
