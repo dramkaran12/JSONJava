@@ -1,17 +1,6 @@
 {
 "JavaQuiz": [
   {
-    "question": "Which is the incorrect for loop??",
-    "type": "image-selection",
-    "choices": [
-      "JavaQuizPics/forloop1.jpg",
-      "JavaQuizPics/forloop2.jpg",
-      "JavaQuizPics/forloop3.jpg"
-    ],
-    "answer": "JavaQuizPics/forloop3.jpg",
-    "feedback": "The third choice has the incorrect syntax, as the iterator is not as update."
-  },
-  {
     "question": "How do you make a print statement?",
     "type": "multiple-choice",
     "choices": [
@@ -21,6 +10,17 @@
     ],
     "answer": "System.out.print",
     "feedback": "The correct answer is System.out.print. The other options are not valid in Java to display content."
+  },
+  {
+    "question": "Which is the incorrect for loop?",
+    "type": "image-selection",
+    "choices": [
+      "JavaQuizPics/forloop1.jpg",
+      "JavaQuizPics/forloop2.jpg",
+      "JavaQuizPics/forloop3.jpg"
+    ],
+    "answer": "JavaQuizPics/forloop3.jpg",
+    "feedback": "The third choice has the incorrect syntax, as the iterator is not as update."
   },
   {
     "question": "An object is an instance of a _____.",
@@ -187,17 +187,6 @@
     ],
     "answer": "class ___ {}",
     "feedback": "The correct answer is class ___ {} not with a capital C in class as it is case sensitive."
-  },
-  {
-    "question": "Which below is not a valid statement to check logic/value?",
-    "type": "drop-down",
-    "choices": [
-      "if-else",
-      "switch",
-      "now-then"
-    ],
-    "answer": "now-then",
-    "feedback": "The correct answer is if-else and switch. Now-then does not exist."
   },
   {
     "question": "You must invoke your functions in your main method.",
