@@ -189,7 +189,7 @@
       "if else",
       "switch"
     ],
-    "feedback": "Since we are checking for equivalency, two double equal signs are required to check so the answer is: if(i == 2)"
+    "feedback": "No then is not valid, however if else and switch are statements used to check the logic/value."
   },
   {
     "question": "You must invoke your functions in your main method.",
