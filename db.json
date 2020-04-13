@@ -178,18 +178,15 @@
     "feedback": "The correct answer is class ___ {} not with a capital C in class as it is case sensitive."
   },
   {
-    "question": "Which of the following is valid to check logic of a value?",
-    "type": "checkbox",
+    "question": "Which below is not a valid statement to check logic/value?",
+    "type": "drop-down",
     "choices": [
-      "if else",
+      "if-else",
       "switch",
-      "now then"
+      "now-then"
     ],
-    "answer": [
-      "if else",
-      "switch"
-    ],
-    "feedback": "No then is not valid, however if else and switch are statements used to check the logic/value."
+    "answer": "now-then",
+    "feedback": "The correct answer is if-else and switch. Now-then does not exist."
   },
   {
     "question": "You must invoke your functions in your main method.",
