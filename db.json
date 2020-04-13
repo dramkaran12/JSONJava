@@ -12,18 +12,18 @@
     "feedback": "The correct answer is System.out.print. The other options are not valid in Java to display content."
   },
   {
-    "question": "What is an object?",
+    "question": "An object is an instance of a _____.",
     "type": "drop-down",
     "choices": [
-      "Instance of a variable",
-      "Instance of a class",
-      "Instance of an array"
+      "variable",
+      "class",
+      "array"
     ],
-    "answer": "Instance of a class",
-    "feedback": "The correct answer is instance of a class."
+    "answer": "class",
+    "feedback": "The correct answer is instance of a class. An object will support the behaviors in a class."
   },
   {
-    "question": "What is the variable used to declare a number/decimal?",
+    "question": "Which variables below can be used to declare the value 1 ?",
     "type": "checkbox",
     "choices": [
       "int",
@@ -34,37 +34,37 @@
       "int",
       "double"
     ],
-    "feedback": "Decimal is not used to define a decimal value, instead double is used."
+    "feedback": "The correct answer is int and double. You can declare a whole number as a double, but cannot declare a double as a whole number."
   },
   {
     "question": "To define a variable that never changes, use final before it.",
     "type": "true-false",
     "choices": [
-      "true",
-      "false"
+      "True",
+      "False"
     ],
-    "answer": "true",
+    "answer": "True",
     "feedback": "Final is the keyword used to define a variable whoms value will not change."
   },
   {
     "question": "What is the value of sum: int sum = 4 + 6; ",
     "type": "fill",
     "answer": "10",
-    "feedback": "The correct answer for sum is 10, since 4+6 = 10"
+    "feedback": "The correct answer for sum is 10, since 4 + 6 = 10"
   },
   {
-    "question": "How would you declare a variable holding the value: Hello World",
+    "question": "If you were iterate a list of elements, what would you use?",
     "type": "multiple-choice",
     "choices": [
-      "let",
-      "var",
-      "String"
+      "Loop",
+      "Variable",
+      "Iterator"
     ],
-    "answer": "String",
-    "feedback": "The correct answer is String."
+    "answer": "Loop",
+    "feedback": "The correct answer is Loop to iterate a list."
   },
   {
-    "question": "On what platform would you run your code to test it?",
+    "question": "What platform do you use to edit your source code?",
     "type": "drop-down",
     "choices": [
       "Google",
@@ -72,7 +72,7 @@
       "IDE"
     ],
     "answer": "IDE",
-    "feedback": "The correct answer is IDE where you can test your code on your local machine before deployment."
+    "feedback": "The correct answer is IDE where you can test and edit your code on your local machine before deployment."
   },
   {
     "question": "What would you declare a method as to avoid overriding?",
@@ -91,28 +91,28 @@
     "question": "JDB is known as Java Debugger.",
     "type": "true-false",
     "choices": [
-      "true",
-      "false"
+      "True",
+      "False"
     ],
-    "answer": "true",
-    "feedback": "It is true- JDB known as Java Debugger allows you to debug into your Java class."
+    "answer": "True",
+    "feedback": "It is true- JDB known as Java Debugger which allows you to debug into your Java code."
   },
   {
     "question": "What is the keyword used in function declaration to not return a value?",
     "type": "fill",
     "answer": "void",
-    "feedback": "The correct answer is void which are used commonly to set data."
+    "feedback": "The correct answer is void which are used commonly in functions to set data."
   },
   {
     "question": "Which for loop is not accurate?",
     "type": "multiple-choice",
     "choices": [
-      "for ( int i = 99; i >= 0; i / 9 )",
-      "for ( int i = 0; i >= 50; i++ )",
-      "for ( int i = 6; i >= 0; i-- )"
+      "for",
+      "while",
+      "within"
     ],
-    "answer": "for ( int i = 99; i >= 0; i / 9 )",
-    "feedback": "The iterator of the for loop is not valid in for ( int i = 99; i >= 0; i / 9 )."
+    "answer": "within",
+    "feedback": "The two loops used in Java are for and while."
   },
   {
     "question": "Which package contains the random class?",
@@ -137,23 +137,23 @@
       "int",
       "String"
     ],
-    "feedback": "Int and String are valid, num is not a valid variable type."
+    "feedback": "int and String are valid, num is not a valid variable type."
   },
   {
     "question": "Java allows multiple thread programming.",
     "type": "true-false",
     "choices": [
-      "true",
-      "false"
+      "True",
+      "False"
     ],
-    "answer": "true",
+    "answer": "True",
     "feedback": "Java allows multiple threads to be executed."
   },
   {
-    "question": "What is the value of sum: int sum = 4 + 6; ",
+    "question": "Enter the syntax to comment out one line in Java.",
     "type": "fill",
-    "answer": "10",
-    "feedback": "The correct answer for sum is 10, since 4+6 = 10"
+    "answer": "//",
+    "feedback": "To comment out one line use //"
   },
   {
     "question": "What it the default amount of elements in an arraylist?",
@@ -188,20 +188,20 @@
     "answer": [
       "if(i == 2)"
     ],
-    "feedback": "Since we are checking for equivalency, two double signs are required to check so the answer is: if(i == 2)"
+    "feedback": "Since we are checking for equivalency, two double equal signs are required to check so the answer is: if(i == 2)"
   },
   {
     "question": "You must invoke your functions in your main method.",
     "type": "true-false",
     "choices": [
-      "true",
-      "false"
+      "True",
+      "False"
     ],
-    "answer": "true",
+    "answer": "True",
     "feedback": "In Java, you must call your functions in the main method to execute."
   },
   {
-    "question": "Fill in the blank: System.out.print__ allows you to print a statement on a new line.?",
+    "question": "Fill in the blank: System.out.print__ allows you to print a statement on a new line.",
     "type": "fill",
     "answer": "ln",
     "feedback": "The correct answer is ln as System.out.println prints out your statement on a new line."
